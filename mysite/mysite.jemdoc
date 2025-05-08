@@ -1,0 +1,26 @@
+# jemdoc: addcss{css/jemdoc.css}, showsource
+# jemdoc: nofooter
+= Peiyi Han
+
+~~~
+{}{img_left}{images/myphoto.jpg}{Peiyi Han}{120px}
+[https://piyihan.github.io/ Peiyi Han], Ph.D. \n
+[https://www.cse.cuhk.edu.hk/ Department of Computer Science & Engineering]\n
+[https://www.cuhk.edu.hk/english/ The Chinese University of Hong Kong]\n\n
+Advisor: [https://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
+~~~
+
+== Contact
+[hanpeiyi2000@gmail.com]
+
+== Research
+- Large language models and machine learning with applications in electronic design automation (EDA)
+
+
+== Education
+- M.S., Computer Science and Technology, [http://english.ict.cas.cn/ Institute of Computing Technology], [https://english.ucas.ac.cn/ University of Chinese Academy of Sciences],
+  June 2025 \n
+    Advisor: [https://novel.ict.ac.cn/ychen/ Professor Yunji Chen]
+- B.E., Automation,
+  [https://www.tsinghua.edu.cn/en/ Tsinghua University], June 2022
+
